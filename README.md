@@ -203,10 +203,6 @@ curl -X 'GET' \
 
 ## Acknowledgment
 
-Articles and videos used as reference are documented in the [reference](https://github.com/Ranaahmad9151/anomaly-detection-platform/tree/main/reference) directory.
-
-If you run into issues while testing the platform, please create an issue on this GitHub repository at the following link and I'll be glad to fix it: https://github.com/Ranaahmad9151/anomaly-detection-platform/issues
-
 If you'd like to collaborate with me or hire me, please feel free to send an email to Ranaahmad9151@gmail.com
 
 Make sure to check out other repositories on my [homepage](https://github.com/Ranaahmad9151).
